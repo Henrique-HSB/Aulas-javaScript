@@ -1,6 +1,5 @@
-/*
-#Introdução a Orientação a Objetos</br>
-##Tipos Abstratos de Dados</br>
+# Introdução a Orientação a Objetos</br>
+## Tipos Abstratos de Dados</br>
 Enquanto estudamos lógica de programação </br>
 trabalhamos com os tipos já presentes na </br>
 linguagem de programação que escolhemos. </br>
@@ -105,7 +104,7 @@ códigos estão dentro das entidades e </br>
 são elas que executam as funcionalidades </br>
 do sistema.
 
-#Criando Objetos</br>
+# Criando Objetos</br>
 Normalmente em uma linguagem orientada </br>
 a objetos, é necessário criar uma </br>
 classe antes de poder criar objetos. </br>
