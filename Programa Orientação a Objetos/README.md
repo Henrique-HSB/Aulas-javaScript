@@ -1,5 +1,5 @@
 # Introdução a Orientação a Objetos</br>
-## Tipos Abstratos de Dados</br>
+## Tipos Abstratos de Dados </br>
 Enquanto estudamos lógica de programação </br>
 trabalhamos com os tipos já presentes na </br>
 linguagem de programação que escolhemos. </br>
